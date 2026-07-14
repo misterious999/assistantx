@@ -1,5 +1,23 @@
 [
-  "628891020116",
-  "6285724972186",
-  "6285973928253"
+  {
+    "username": "pstar7",
+    "owner_number": "62895416479539",
+    "bot_numbers": [
+      "628891020116"
+    ]
+  },
+  {
+    "username": "barmods",
+    "owner_number": "6283877842721",
+    "bot_numbers": [
+      "6285973928253"
+    ]
+  },
+  {
+    "username": "dhil",
+    "owner_number": "62895336256174",
+    "bot_numbers": [
+      "6285724972186"
+    ]
+  }
 ]
